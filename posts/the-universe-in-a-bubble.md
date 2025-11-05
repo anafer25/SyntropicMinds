@@ -21,7 +21,7 @@ The bursting isn't a failure, it's the transformation. Like the bubble, our emot
 
 For those who would like to learn more, I recommend: Rezaee et al., "Observation of Nonclassical Photon Statistics in Single-Bubble Sonoluminescence" (2022)
 
-# General disclaimer: All content shared here is for educational, creative, or entertainment purposes. I'm not providing professional advice, and experiments or ideas should not be tried without proper knowledge, safety precautions, or guidance. Enjoy, learn, and stay curious safely!
+General disclaimer: All content shared here is for educational, creative, or entertainment purposes. I'm not providing professional advice, and experiments or ideas should not be tried without proper knowledge, safety precautions, or guidance. Enjoy, learn, and stay curious safely!
 
 ---
 
@@ -48,4 +48,4 @@ En el agua es tensión y colapso; en las estrellas es gravedad y explosión; y e
 
 Para quienes deseen profundizar, recomiendo: Rezaee et al., Observation of Nonclassical Photon Statistics in Single-Bubble Sonoluminescence (2022)
 
-# Aviso general: Todo el contenido compartido aquí tiene fines educativos, creativos o de entretenimiento. No estoy ofreciendo asesoramiento profesional, y los experimentos o ideas no deben intentarse sin el conocimiento adecuado, precauciones de seguridad o supervisión. ¡Disfruta, aprende y mantente curioso con seguridad!
+Aviso general: Todo el contenido compartido aquí tiene fines educativos, creativos o de entretenimiento. No estoy ofreciendo asesoramiento profesional, y los experimentos o ideas no deben intentarse sin el conocimiento adecuado, precauciones de seguridad o supervisión. ¡Disfruta, aprende y mantente curioso con seguridad!
